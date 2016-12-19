@@ -5,4 +5,5 @@ public class HeyThere {
 	master;
 	
 	something new in master;
+	master;
 }
